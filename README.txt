@@ -1,1 +1,1 @@
-This branch includes png files of all of the diagrams used in both the architectural analysis and the drone component analysis.
+This github includes all of the deliverables for the ASU Capstone Project: Raytheon Zero Trust for Embedded Components.
